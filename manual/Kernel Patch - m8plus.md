@@ -1,5 +1,7 @@
 # Kernel Patch - m8plus
 
+### DO NOT FLASH TO TSOP! YOU HAVE BEEN WARNED!
+
 Start by placing the IPS patch inside of an empty folder with the M8plus BIOS. (The BIOS release pictured below also included a separate BIOS for 1.0-1.5 and another for 1.6)
 
 ![Step 1](https://github.com/MakeMHz/xbox-hdmi/raw/feature-patches/manual/images/patch/m8plus_patch_1.png)
