@@ -25,7 +25,7 @@ This guide also assumes that you watched the installation video linked above.
 
 This guide is for Xbox motherboard revisions 1.0 - 1.5 with a Conexant or Focus encoder.
 **<p align="center">Apply the kernel patches and verify it's activated by running the XboxHDMI application on the Xbox before teardown, as this will fix certain kernel bugs in some games!</p>**
-<p align="center">https://bit.ly/3nUfcOJ</p>
+<p align="center">https://github.com/MakeMHz/xbox-hdmi/blob/master/patches/README.md</p>
 
 ### Kit Contents
 Check your kit for missing or damaged pieces before moving forwards.
