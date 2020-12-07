@@ -24,7 +24,7 @@ Choose the m8plus.ips patch file.
 
 ![Step 6](https://github.com/MakeMHz/xbox-hdmi/raw/master/manual/images/patch/m8plus_patch_6.png)
 
-Choose the m8plus_kernel..img
+Choose the m8plus_kernel.img
 
 ![Step 7](https://github.com/MakeMHz/xbox-hdmi/raw/master/manual/images/patch/m8plus_patch_7.png)
 
@@ -34,11 +34,11 @@ Now open back up EVtool and click 'Pack'. Choose the m8plus_kernel.img
 
 ![Step 9](https://github.com/MakeMHz/xbox-hdmi/raw/master/manual/images/patch/m8plus_patch_9.png)
 
-Select the correct BIOS as the Base ROM. (M8plus.bin for 1.0 - 1.5 systems and M8plus_16.bin for 1.6)
+Select the correct BIOS as the Base ROM. (M8plus.bin for 1.0 - 1.5 systems and M8plus_16.bin for 1.6 systems)
 
 ![Step 10](https://github.com/MakeMHz/xbox-hdmi/raw/master/manual/images/patch/m8plus_patch_10.png)
 
-For the 'Save As' give the new BIOS a unquie name, such as M8plus_patched.bin, and click save.
+For the 'Save As' give the new BIOS a unique name, such as M8plus_patched.bin, and click save.
 
 ![Step 11](https://github.com/MakeMHz/xbox-hdmi/raw/master/manual/images/patch/m8plus_patch_11.png)
 
