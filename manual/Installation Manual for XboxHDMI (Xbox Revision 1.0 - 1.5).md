@@ -1,7 +1,7 @@
 # XboxHDMI Installation Guide
 ### Xbox Revision 1.0 -1.5
 
-# At this time we ask that users hold off on. Currently investigating an issue to related to SOME boards.
+# At this time we ask that users hold off on 1.0 installs. Currently investigating an issue to related to SOME boards.
 
 - [Brief Overview](#brief-overview)
 - [Preperation](#preperation)
