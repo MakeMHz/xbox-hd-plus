@@ -1,4 +1,4 @@
-# At this time we ask that users hold off on 1.0 installs! 
+# At this time we ask that users hold off on 1.0 and 1.1 installs! 
 ## We are currently investigating an issue to related to SOME revisions of the 1.0 motherboard. We've  narrowed down the issue and will be making it our top priority to have the guide updated to reflect the changes that may need to be done.
 
 
