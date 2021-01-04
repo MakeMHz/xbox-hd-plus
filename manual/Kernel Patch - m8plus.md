@@ -24,7 +24,7 @@ Choose the m8plus.ips patch file.
 
 ![Step 6](https://github.com/MakeMHz/xbox-hdmi/raw/master/manual/images/patch/m8plus_patch_6.png)
 
-Choose the m8plus_kernel.img
+Set 'Files of type:' from 'Most Common ROM Files' to 'All Files' and choose the m8plus_kernel.img
 
 ![Step 7](https://github.com/MakeMHz/xbox-hdmi/raw/master/manual/images/patch/m8plus_patch_7.png)
 
