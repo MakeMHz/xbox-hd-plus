@@ -9,7 +9,7 @@ The QSB solders on to the bottom side of the Xbox motherboard.
 
 ![QSB Installation Overview](images/QSB_Overview.jpg)
 
-Start by soldering the each connection. After soldering the first connection use a pair of tweezers to hold the board as flat as possible while making the other connections. (The Xbox motherboard has a slight curve to it do the CPU/GPU mounts)
+Start by soldering each connection. After soldering the first connection use a pair of tweezers to hold the board as flat as possible while making the other connections. (The Xbox motherboard has a slight curve to it do the CPU/GPU mounts)
 
 ![QSB Close up](images/QSB_Install.jpg)
 
