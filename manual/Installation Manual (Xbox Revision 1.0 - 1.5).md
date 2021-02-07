@@ -1,7 +1,3 @@
-# At this time we ask that users hold off on 1.0 and 1.1 installs! 
-## We are currently investigating an issue to related to SOME revisions of the 1.0 motherboard. We've  narrowed down the issue and will be making it our top priority to have the guide updated to reflect the changes that may need to be done.
-
-
 # XboxHDMI Installation Guide
 ### Xbox Revision 1.0 -1.5
 
@@ -86,6 +82,9 @@ After cutting each wire, strip each side of the wires. It's recommended for the 
 
 ### XboxHDMI Board Prep
 Begin by adding solder to all of the connection pads (GND, SDA, SCL, SPDIF, 1V8, 5V). This is important as there's little room once everything is installed.
+
+### Step 0 - QSB Installation
+Xbox revisions 1.0 and 1.1 (Single row power supply connector and Conexant encoder) requires the installation of a QSB board. Follow the [Installation Manual QSB](Installation%20Manual%20QSB.md) first before continuing. (If you received a kit without the QSB and need one then contact support@makemhz.com or purchase one from [MakeMHz.com](https://makemhz.com))
 
 ### Step 1 - Motherboard Prep
 The first step is to remove the motherboard from the Xbox. There are plenty of guides on the internet on how to do so and won't be repeated here as it's pretty straight-forward.
