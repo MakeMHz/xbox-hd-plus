@@ -1,0 +1,246 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector:TestPoint TP1
+U 1 1 5FDFF7E9
+P 850 975
+F 0 "TP1" H 908 1093 50  0000 L CNN
+F 1 "TestPoint" H 908 1002 50  0000 L CNN
+F 2 "TestPoint:TestPoint_THTPad_D2.5mm_Drill1.2mm" H 1050 975 50  0001 C CNN
+F 3 "~" H 1050 975 50  0001 C CNN
+	1    850  975 
+	1    0    0    -1  
+$EndComp
+Text GLabel 1050 1250 2    50   Input ~ 0
+VIDEO_1v5
+Wire Wire Line
+	850  975  850  1250
+Wire Wire Line
+	850  1250 1050 1250
+$Comp
+L Connector:TestPoint TP2
+U 1 1 5FDFFD33
+P 1800 975
+F 0 "TP2" H 1858 1093 50  0000 L CNN
+F 1 "TestPoint" H 1858 1002 50  0000 L CNN
+F 2 "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm" H 2000 975 50  0001 C CNN
+F 3 "~" H 2000 975 50  0001 C CNN
+	1    1800 975 
+	1    0    0    -1  
+$EndComp
+Text GLabel 2000 1250 2    50   Input ~ 0
+FIELD
+Wire Wire Line
+	1800 975  1800 1250
+Wire Wire Line
+	1800 1250 2000 1250
+$Comp
+L Device:R R4M7
+U 1 1 5FE0179C
+P 1100 2125
+F 0 "R4M7" H 1170 2171 50  0000 L CNN
+F 1 "200" H 1170 2080 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 1030 2125 50  0001 C CNN
+F 3 "~" H 1100 2125 50  0001 C CNN
+	1    1100 2125
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R4N14
+U 1 1 5FE018EA
+P 1100 2675
+F 0 "R4N14" H 1170 2721 50  0000 L CNN
+F 1 "200" H 1170 2630 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 1030 2675 50  0001 C CNN
+F 3 "~" H 1100 2675 50  0001 C CNN
+	1    1100 2675
+	1    0    0    -1  
+$EndComp
+Text GLabel 1350 1800 2    50   Input ~ 0
+VIDEO_1v5
+$Comp
+L power:GND #PWR0101
+U 1 1 5FE01E31
+P 1100 3025
+F 0 "#PWR0101" H 1100 2775 50  0001 C CNN
+F 1 "GND" H 1105 2852 50  0000 C CNN
+F 2 "" H 1100 3025 50  0001 C CNN
+F 3 "" H 1100 3025 50  0001 C CNN
+	1    1100 3025
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1100 2825 1100 3025
+Wire Wire Line
+	1100 1975 1100 1800
+Wire Wire Line
+	1100 1800 1350 1800
+Wire Wire Line
+	1100 2275 1100 2375
+Text GLabel 825  2375 0    50   Input ~ 0
+CLKI
+Wire Wire Line
+	825  2375 1100 2375
+Connection ~ 1100 2375
+Wire Wire Line
+	1100 2375 1100 2525
+$Comp
+L power:GND #PWR0102
+U 1 1 5FE00F0E
+P 3500 1200
+F 0 "#PWR0102" H 3500 950 50  0001 C CNN
+F 1 "GND" H 3505 1027 50  0000 C CNN
+F 2 "" H 3500 1200 50  0001 C CNN
+F 3 "" H 3500 1200 50  0001 C CNN
+	1    3500 1200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3500 975  3500 1200
+$Comp
+L Connector:TestPoint TP4
+U 1 1 5FE0064E
+P 3500 975
+F 0 "TP4" H 3558 1093 50  0000 L CNN
+F 1 "TestPoint" H 3558 1002 50  0000 L CNN
+F 2 "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm" H 3700 975 50  0001 C CNN
+F 3 "~" H 3700 975 50  0001 C CNN
+	1    3500 975 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP3
+U 1 1 5FE04DF5
+P 2550 975
+F 0 "TP3" H 2608 1093 50  0000 L CNN
+F 1 "TestPoint" H 2608 1002 50  0000 L CNN
+F 2 "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm" H 2750 975 50  0001 C CNN
+F 3 "~" H 2750 975 50  0001 C CNN
+	1    2550 975 
+	1    0    0    -1  
+$EndComp
+Text GLabel 2750 1250 2    50   Input ~ 0
+CLKI
+Wire Wire Line
+	2550 975  2550 1250
+Wire Wire Line
+	2550 1250 2750 1250
+$Comp
+L Device:R R4B7
+U 1 1 5FE09E21
+P 2600 2150
+F 0 "R4B7" H 2670 2196 50  0000 L CNN
+F 1 "100" H 2670 2105 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 2530 2150 50  0001 C CNN
+F 3 "~" H 2600 2150 50  0001 C CNN
+	1    2600 2150
+	1    0    0    -1  
+$EndComp
+Text GLabel 2850 1825 2    50   Input ~ 0
+VIDEO_1v5
+Wire Wire Line
+	2600 2000 2600 1825
+Wire Wire Line
+	2600 1825 2850 1825
+Wire Wire Line
+	2600 2300 2600 2400
+Text GLabel 2325 2400 0    50   Input ~ 0
+FIELD
+Wire Wire Line
+	2325 2400 2600 2400
+$Comp
+L Device:C C1
+U 1 1 5FE115BF
+P 4025 2175
+F 0 "C1" H 4140 2221 50  0000 L CNN
+F 1 "C" H 4140 2130 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4063 2025 50  0001 C CNN
+F 3 "~" H 4025 2175 50  0001 C CNN
+	1    4025 2175
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 5FE11A0D
+P 4025 2500
+F 0 "#PWR0103" H 4025 2250 50  0001 C CNN
+F 1 "GND" H 4030 2327 50  0000 C CNN
+F 2 "" H 4025 2500 50  0001 C CNN
+F 3 "" H 4025 2500 50  0001 C CNN
+	1    4025 2500
+	1    0    0    -1  
+$EndComp
+Text GLabel 4275 1850 2    50   Input ~ 0
+VIDEO_1v5
+Wire Wire Line
+	4025 2025 4025 1850
+Wire Wire Line
+	4025 1850 4275 1850
+Wire Wire Line
+	4025 2325 4025 2500
+$Comp
+L Device:C C2
+U 1 1 5FE19C2B
+P 5275 2175
+F 0 "C2" H 5390 2221 50  0000 L CNN
+F 1 "C" H 5390 2130 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 5313 2025 50  0001 C CNN
+F 3 "~" H 5275 2175 50  0001 C CNN
+	1    5275 2175
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 5FE19C35
+P 5275 2500
+F 0 "#PWR0104" H 5275 2250 50  0001 C CNN
+F 1 "GND" H 5280 2327 50  0000 C CNN
+F 2 "" H 5275 2500 50  0001 C CNN
+F 3 "" H 5275 2500 50  0001 C CNN
+	1    5275 2500
+	1    0    0    -1  
+$EndComp
+Text GLabel 5525 1850 2    50   Input ~ 0
+VIDEO_1v5
+Wire Wire Line
+	5275 2025 5275 1850
+Wire Wire Line
+	5275 1850 5525 1850
+Wire Wire Line
+	5275 2325 5275 2500
+$Comp
+L Graphic:Logo_Open_Hardware_Small LOGO1
+U 1 1 5FE18DF6
+P 7100 1300
+F 0 "LOGO1" H 7347 1325 50  0000 L CNN
+F 1 "Logo_Open_Hardware_Small" H 7100 1075 50  0001 C CNN
+F 2 "Symbol:OSHW-Logo_5.7x6mm_SilkScreen" H 7100 1300 50  0001 C CNN
+F 3 "~" H 7100 1300 50  0001 C CNN
+	1    7100 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C LOGO2
+U 1 1 5FE1C008
+P 7900 1275
+F 0 "LOGO2" H 8015 1321 50  0000 L CNN
+F 1 "C" H 8015 1230 50  0000 L CNN
+F 2 "Custom:logo" H 7938 1125 50  0001 C CNN
+F 3 "~" H 7900 1275 50  0001 C CNN
+	1    7900 1275
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
