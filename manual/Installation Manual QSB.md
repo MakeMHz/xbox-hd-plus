@@ -21,8 +21,8 @@ Verification and troubleshooting can be performed by measuring the resistance us
 
 | Connection 1 | Connection 2 | Resistance |
 | ------------ | ------------ | ---------- |
-| CLKI         | GND          | <= 200 ohm |
-| CLKI         | VIDEO_1v5    | <= 200 ohm |
-| FIELD        | VIDEO_1v5    | <= 100 ohm |
+| 🟠 CLKI         | ⚫ GND          | <= 200 ohm |
+| 🟠 CLKI         | 🔴 VIDEO_1v5    | <= 200 ohm |
+| 🔵 FIELD        | 🔴 VIDEO_1v5    | <= 100 ohm |
 
 ![Troubleshooting Guide](images/QSB_Troubleshooting.jpg)
