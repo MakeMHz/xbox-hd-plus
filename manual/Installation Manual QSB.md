@@ -26,3 +26,6 @@ Verification and troubleshooting can be performed by measuring the resistance us
 | 🔵 FIELD        | 🔴 VIDEO_1v5    | <= 100 ohm |
 
 ![Troubleshooting Guide](images/QSB_Troubleshooting.jpg)
+
+### QSB PCB Layout
+![QSB PCB Layout](images/QSB_PCB.jpg)
