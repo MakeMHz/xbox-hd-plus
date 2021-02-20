@@ -19,7 +19,8 @@ For a Brief Overview, Please visit the YouTube video below.
 <p align="center">https://bit.ly/339G98T</p>
 
 ### Preperation
-Before your adventure begins, it's imperative to ensure that you have a fully working, tested, and modified xbox.
+Before your adventure begins, it's imperative to ensure that you have a fully working, tested, and modified xbox. (The current version of the BIOS patch requires a HDTV AV/component cable to test)
+
 Please thoroughly test your system before attempting to install the XboxHDMI kit.
 This guide also assumes that you watched the installation video linked above.
 
