@@ -117,6 +117,7 @@ After the flex is installed, the Xbox should still be bootable.
 
 #### Best Practices
 - Pre-tin both sides of the flex by applying ample flux and running solder across each pad before soldering to the Xbox motherboard.
+- Pre-shape the flex. Gently shape the flex so it's close to the final shape before soldering. The flex must lay flat and properly aligned when installed.
 - Take your time!
 
 **Completed Install**
