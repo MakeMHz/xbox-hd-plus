@@ -24,6 +24,8 @@ Please thoroughly test your system before attempting to install the XboxHDMI kit
 This guide also assumes that you watched the installation video linked above.
 
 This guide is for Xbox motherboard revisions 1.6 with a Xcalibur video encoder.
+**<p align="center">Apply the kernel patches and verify it's activated by running the XboxHDMI application on the Xbox before teardown!</p>**
+<p align="center">https://github.com/MakeMHz/xbox-hdmi/blob/master/patches/README.md</p>
 
 ### Kit Contents
 Check your kit for missing or damaged pieces before moving forwards.
