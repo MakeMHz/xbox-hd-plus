@@ -12,7 +12,8 @@
 ## Changelog
 
 ### 1.3.x
-1.3.x is a rewrite of the kernel patch with the goal of adding 1.6 support and making the patch more portable.
+1.3.x is a rewrite of the kernel patch with the goal of adding 1.6 support and making the patch more portable. (Requires update of xbox-hdmi-app for detection)
   *  Added support for 1.6 revision Xbox motherboard
+  *  Fixes ALL issues related to non-playable games related to 1.6 compatibility issues! No game patching required. This includes games previously unplayable via any other means, including stock and modified 1.6 systems. (XboxHDMI install required)
   *  Increased compatibility for when the XboxHDMI board is not installed. (Useful for when verifying BIOS is patched pre-installation.)
   *  Send additional data to the XboxHDMI board for edge case handling. (Per-game/title ID handling)
