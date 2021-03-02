@@ -10,7 +10,7 @@ Please read the manual first
 [Quick Solder Board](<manual/Installation Manual QSB.md>)
 
 ### 1.6 revision of the Xbox
-[/manual/Installation Manual (Xbox Revision 1.6).md](<manual/Installation Manual (Xbox Revision 1.6).md>)
+[Installation Manual](<manual/Installation Manual (Xbox Revision 1.6).md>)
 
 ## Essential links
 
