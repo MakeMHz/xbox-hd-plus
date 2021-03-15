@@ -90,7 +90,7 @@ It's required to remove the CPU heatsink, GPU heatsink, and the motherboard heat
 
 The thermal compound on the GPU can be cleaned off with a basic solvent such as Arctic Silver Arcticlean Thermal Cooling Material Remover or with WD-40. When re-applying the heatsink, make sure to add **ample** PC thermal paste. *(in this case, more is better as a bit too much should not effect thermals and is ultimately safer as the GPU does not have an embedded thermal sensor for overheating protection).*
 
-Next up is removing the heatsink mount. The pins can be a bit tricky to pop out. We've found that using side cutters to wedge them out works nicely. (Just becareful not to cut them)
+Next up is removing the heatsink mount. The pins can be a bit tricky to pop out. We've found that using side cutters to wedge them out works nicely. (Just be careful not to cut them)
 
 ![Removing heatsink pins](images/removing_heatsink_pins.jpg)
 
@@ -160,6 +160,6 @@ Place the XboxHDMI board in the system and screw it down with the two provided s
 
 Connect each wire to their corresponding pads on the XboxHDMI board.
 
-Carefully connec the flex cable to the FPC connector. Be very careful. it may take a couple of tries as sometimes the flex will want to go in at an angle. if this happens, then pull it out and gently push it back in. ***Do not force it in. Make sure the flex is not inserted at an angle!***
+Carefully connect the flex cable to the FPC connector. Be very careful. it may take a couple of tries as sometimes the flex will want to go in at an angle. if this happens, then pull it out and gently push it back in. ***Do not force it in. Make sure the flex is not inserted at an angle!***
 
 ![Image of XboxHDMI Installed](images/Step5-Finished_1_6.jpg)
