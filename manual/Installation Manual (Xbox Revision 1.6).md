@@ -33,7 +33,7 @@ Check your kit for missing or damaged pieces before moving forwards.
 
 - XboxHDMI Main Board
 - XboxHDMI Flex PCB
-- 26AWG Stranded Red Wire for the 5V and 1.8V connections.
+- 26AWG Stranded Red Wire for the 5V.
 - 26AWG Stranded Orange Wire for the SPDIF connection.
 - 26AWG Stranded Black Wire for the ground connections.
 - 22AWG paired Wire for the SMBus connection.
@@ -53,11 +53,6 @@ After cutting each wire, strip each side of the wires. It's recommended for the 
     <th>Black Wire</th>
     <td>28mm</td>
     <td>GND 1 Connection Near the SPDIF pad</td>
-  </tr>
-  <tr>
-    <th>Red Wire</th>
-    <td>35mm</td>
-    <td>1.8V Connection</td>
   </tr>
   <tr>
     <th>Red Wire</th>
