@@ -72,7 +72,7 @@ After cutting each wire, strip each side of the wires. It's recommended for the 
 </table>
 
 ### XboxHDMI Board Prep
-Begin by adding solder to all of the connection pads (GND, SDA, SCL, SPDIF, 1V8, 5V). This is important as there's little room once everything is installed.
+Begin by adding solder to all of the connection pads (GND, SDA, SCL, SPDIF, 5V). This is important as there's little room once everything is installed.
 
 ### Step 1 - Motherboard Prep
 The first step is to remove the motherboard from the Xbox. There are plenty of guides on the internet on how to do so and won't be repeated here as it's pretty straight-forward.
