@@ -33,7 +33,7 @@ Check your kit for missing or damaged pieces before moving forwards.
 
 - XboxHDMI Main Board
 - XboxHDMI Flex PCB
-- 26AWG Stranded Red Wire for the 5V and 1.8V connections.
+- 26AWG Stranded Red Wire for the 5V.
 - 26AWG Stranded Orange Wire for the SPDIF connection.
 - 26AWG Stranded Black Wire for the ground connections.
 - 22AWG paired Wire for the SMBus connection.
@@ -56,11 +56,6 @@ After cutting each wire, strip each side of the wires. It's recommended for the 
   </tr>
   <tr>
     <th>Red Wire</th>
-    <td>35mm</td>
-    <td>1.8V Connection</td>
-  </tr>
-  <tr>
-    <th>Red Wire</th>
     <td>48mm</td>
     <td>5V Connection</td>
   </tr>
@@ -77,7 +72,7 @@ After cutting each wire, strip each side of the wires. It's recommended for the 
 </table>
 
 ### XboxHDMI Board Prep
-Begin by adding solder to all of the connection pads (GND, SDA, SCL, SPDIF, 1V8, 5V). This is important as there's little room once everything is installed.
+Begin by adding solder to all of the connection pads (GND, SDA, SCL, SPDIF, 5V). This is important as there's little room once everything is installed.
 
 ### Step 1 - Motherboard Prep
 The first step is to remove the motherboard from the Xbox. There are plenty of guides on the internet on how to do so and won't be repeated here as it's pretty straight-forward.
