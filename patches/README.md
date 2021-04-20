@@ -9,6 +9,11 @@
 | m8plus (M8_LBA48_IGR_C-06.bin)        | c5ea8592b48a2bb6b3c288cf263ed9f3 |         1.4.3 | Verified    | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/m8plus.ips) | [Link](https://github.com/MakeMHz/xbox-hd-plus/blob/master/manual/Kernel%20Patch%20-%20m8plus.md)  |
 | m8plus (M8_LBA48_IGR_Q-06.bin)        | 0fc0392198205849849b08f7fd5759c1 |         1.4.3 | Verified    | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/m8plus.ips) | [Link](https://github.com/MakeMHz/xbox-hd-plus/blob/master/manual/Kernel%20Patch%20-%20m8plus.md)  |
 | evox.m8plus.fc.137.bin                | f0decbde3df48a9ecae87336e2a7cbdd |         1.4.3 | Verified    | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/m8plus.ips) | [Link](https://github.com/MakeMHz/xbox-hd-plus/blob/master/manual/Kernel%20Patch%20-%20m8plus.md)  |
+| iND (iND-BiOS.5003.06.bin)            | b0c482ca1a76a4550c73a391171b8bb1 |         1.4.3 | Beta *      | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/ind-bios.5003.xx.ips) | [Link](https://github.com/MakeMHz/xbox-hd-plus/blob/master/manual/Kernel%20Patch%20-%20ind.md)  |
+| iND (iND-BiOS.5003.67.bin)            | ae7bf411d05c3ef1132b97627c65a62f |         1.4.3 | Beta *      | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/ind-bios.5003.xx.ips) | [Link](https://github.com/MakeMHz/xbox-hd-plus/blob/master/manual/Kernel%20Patch%20-%20ind.md)  |
+
+
+**It is recommended to preform the inital installation and verification using a patch m8plus BIOS.**
 
 ## Changelog
 
