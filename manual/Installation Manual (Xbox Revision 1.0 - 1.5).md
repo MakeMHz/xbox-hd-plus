@@ -1,11 +1,11 @@
-# XboxHDMI Installation Guide
+# XboxHD+ Installation Guide
 ### Xbox Revision 1.0 -1.5
 
 - [Brief Overview](#brief-overview)
 - [Preperation](#preperation)
   * [Kit Contents](#kit-contents)
   * [Wire Prep](#wire-prep)
-  * [XboxHDMI Board Prep](#xboxhdmi-board-prep)
+  * [XboxHD+ Board Prep](#xboxhdmi-board-prep)
 - [Step 1 - Motherboard Prep](#step-1---motherboard-prep)
 - [Step 2 - Jumper Wires](#step-2---jumper-wires)
 - [Step 3 - Flex Installation](#step-3---flex-installation)
@@ -15,24 +15,24 @@
 ### Brief Overview
 For a Brief Overview, Please visit the YouTube video below.
 
-![Image of XboxHDMI YouTube Video](images/YouTube.png)
+![Image of XboxHD+ YouTube Video](images/YouTube.png)
 <p align="center">https://bit.ly/339G98T</p>
 
 ### Preperation
 Before your adventure begins, it's imperative to ensure that you have a fully working, tested, and modified Xbox.
 
-Please thoroughly test your system before attempting to install the XboxHDMI kit.
+Please thoroughly test your system before attempting to install the XboxHD+ kit.
 This guide also assumes that you watched the installation video linked above.
 
 This guide is for Xbox motherboard revisions 1.0 - 1.5 with a Conexant or Focus encoder.
-**<p align="center">Apply the kernel patches and verify it's activated by running the XboxHDMI application on the Xbox before teardown, as this will fix certain kernel bugs in some games!</p>**
-<p align="center">https://github.com/MakeMHz/xbox-hdmi/blob/master/patches/README.md</p>
+**<p align="center">Apply the kernel patches and verify it's activated by running the XboxHD+ application on the Xbox before teardown, as this will fix certain kernel bugs in some games!</p>**
+<p align="center">https://github.com/MakeMHz/xbox-hd-plus/blob/master/patches/README.md</p>
 
 ### Kit Contents
 Check your kit for missing or damaged pieces before moving forwards.
 
-- XboxHDMI Main Board
-- XboxHDMI Flex PCB
+- XboxHD+ Main Board
+- XboxHD+ Flex PCB
 - 26AWG Stranded Red Wire for the 5V and 1.8V connections.
 - 26AWG Stranded Orange Wire for the SPDIF connection.
 - 26AWG Stranded Black Wire for the ground connections.
@@ -44,7 +44,7 @@ Check your kit for missing or damaged pieces before moving forwards.
 ### Wire Prep
 It's imperative to cut each wire as close as possible to our recommendations, but not shorter. if additional wire is needed then make sure to use wire of similar quality and gauge.
 
-After cutting each wire, strip each side of the wires. It's recommended for the cleanest install to strip about 2mm from one side (for the connections to the Xbox motherboard) and about 3mm on the other side (for connections to the XboxHDMI board). Make sure to twist the stranded wires and pre-tin each one.
+After cutting each wire, strip each side of the wires. It's recommended for the cleanest install to strip about 2mm from one side (for the connections to the Xbox motherboard) and about 3mm on the other side (for connections to the XboxHD+ board). Make sure to twist the stranded wires and pre-tin each one.
 
 **Cut List and Lengths (end to end, before stripping)**
 
@@ -81,7 +81,7 @@ After cutting each wire, strip each side of the wires. It's recommended for the 
   </tr>
 </table>
 
-### XboxHDMI Board Prep
+### XboxHD+ Board Prep
 Begin by adding solder to all of the connection pads (GND, SDA, SCL, SPDIF, 1V8, 5V). This is important as there's little room once everything is installed.
 
 ### Step 0 - QSB Installation
@@ -100,7 +100,7 @@ After this, you can remove the AV port. Please refer to the installation video f
 
 And finally, make sure to clean the area where the flex will be installed with IPA.
 
-![Image of XboxHDMI YouTube Video](images/Step1.png)
+![Image of XboxHD+ YouTube Video](images/Step1.png)
 <p align="center"><i><b>Note that removing the CPU heatsink is not required.</b></i></p>
 
 ### Step 2 - Jumper Wires
@@ -174,14 +174,14 @@ Place the spacer as shown below in black.
 <p align="center"><b><i>I forgot to take a photo for the manual... MSPaint works though.</b></i></p>
 
 ### Re-install the Xbox Motherboard
-Place the Xbox motherboard back into the case. Make sure to screw the motherboard back in. There's one screw located under where the XboxHDMI will be installed.
+Place the Xbox motherboard back into the case. Make sure to screw the motherboard back in. There's one screw located under where the XboxHD+ will be installed.
 
-### Install the XboxHDMI Board
-Place the XboxHDMI board in the system and screw it down with the two provided screws.
+### Install the XboxHD+ Board
+Place the XboxHD+ board in the system and screw it down with the two provided screws.
 
-Connect each wire to their corresponding pads on the XboxHDMI board.
+Connect each wire to their corresponding pads on the XboxHD+ board.
 
 Carefully connec the flex cable to the FPC connector. Be very careful. it may take a couple of tries as sometimes the flex will want to go in at an angle. if this happens, then pull it out and gently push it back in. ***Do not force it in. Make sure the flex is not inserted at an angle!***
 
-![Image of XboxHDMI Installed](images/Step5-Finished.png)
+![Image of XboxHD+ Installed](images/Step5-Finished.png)
 <p align="center"><i><b>This is a photo of a test system. Ignore the missing parts of the case...</b></i></p>
