@@ -84,7 +84,7 @@ Launch the XboxHD+ app.
 
 ### Step 2:
 Apply update. The update will wait 2 minutes before flashing the firmware update.
-#### DO NOT TURN OFF the Xbox's front LED turns orange. Doing so can brick the XboxHDMI/XboxHD+
+**DO NOT TURN OFF THE XBOX** once the front LEDs turn orange. Doing so can/will brick the XboxHDMI/XboxHD+.
 
 ![BIOS Flashing Step 13](./images/upgrade/app_upgrade_1.png)
 
