@@ -44,7 +44,7 @@ Apply patch to BIOS by following the link to the patching guide for the correspo
 ![BIOS Guides](./images/upgrade/patches_guide.png)
 
 ### Step 3
-FTP the BIOS file over to Xbox. (Personal preference is to store the BIOS file inside of a folder on the C drive called 'BIOS')
+FTP the patched BIOS file over to Xbox. It's recommended to store the BIOS file inside of a folder on the C drive called 'BIOS' for future refrences.
 
 ![FTP BIOS bin file](./images/upgrade/ftp_bios.png)
 
