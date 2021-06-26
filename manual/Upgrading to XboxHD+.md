@@ -79,10 +79,10 @@ TODO: Add guides for adding shortcuts to C:\xboxhd\default.xbe
 ## Firmware Update
 At this point you can reboot the Xbox. This will boot the patched BIOS.
 
-### Step #1:
+### Step 1:
 Launch the XboxHD+ app.
 
-### Step #2:
+### Step 2:
 Apply update. The update will wait 2 minutes before flashing the firmware update.
 #### DO NOT TURN OFF the Xbox's front LED turns orange. Doing so can brick the XboxHDMI/XboxHD+
 
@@ -92,5 +92,8 @@ Apply update. The update will wait 2 minutes before flashing the firmware update
 
 ![BIOS Flashing Step 13](./images/upgrade/app_upgrade_3.png)
 
-# Step #3
+# Step 3
 Repeat by launching the XboxHD+ app. Depending on the starting firmware you may have to update multiple times.
+
+## All Done
+And that's it!
