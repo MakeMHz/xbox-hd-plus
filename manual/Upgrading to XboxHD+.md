@@ -93,7 +93,7 @@ Apply update. The update will wait 2 minutes before flashing the firmware update
 ![BIOS Flashing Step 13](./images/upgrade/app_upgrade_3.png)
 
 # Step 3
-Repeat by launching the XboxHD+ app. Depending on the starting firmware you may have to update multiple times.
+Repeat by launching the XboxHD+ app again. Depending on the starting firmware you may have to update multiple times.
 
 ## All Done
 And that's it!
