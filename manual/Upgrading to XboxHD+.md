@@ -41,6 +41,8 @@ Download the latest kpatch IPS file for your BIOS of choice.
 ### Step 2
 Apply patch to BIOS by following the guide linked to the corresponding BIOS on the patch page. (Due to legal reasons we can not distribute these files)
 
+![BIOS Guides](./images/upgrade/patches_guide.png)
+
 ### Step 3
 FTP the BIOS file over to Xbox. (Personal preference is to store the BIOS file inside of a folder on the C drive called 'BIOS')
 
