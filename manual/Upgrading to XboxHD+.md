@@ -61,7 +61,7 @@ Flash BIOS.
 ![BIOS Flashing Step 8](./images/upgrade/flash_step8.png)
 
 ### Step 5
-Set the newly flash BIOS as the default BIOS.
+Set the newly flashed BIOS as the default BIOS.
 
 ![BIOS Flashing Step 9](./images/upgrade/flash_step9.png)
 ![BIOS Flashing Step 10](./images/upgrade/flash_step10.png)
