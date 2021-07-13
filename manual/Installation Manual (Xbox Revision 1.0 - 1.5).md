@@ -19,6 +19,8 @@ For a Brief Overview, Please visit the YouTube video below.
 <p align="center">https://bit.ly/339G98T</p>
 
 ### Preperation
+**Make sure to carefully read the entire document in full before you start! Familiarize yourself with all the steps and how they are to be carried out. Do not skip any steps, and use the provided pictures to compare your results.**
+
 Before your adventure begins, it's imperative to ensure that you have a fully working, tested, and modified Xbox.
 
 Please thoroughly test your system before attempting to install the XboxHD+ kit.
