@@ -123,6 +123,9 @@ After the flex is installed, the Xbox should still be bootable.
 - Pre-shape the flex. Gently shape the flex so it's close to the final shape before soldering. The flex must lay flat and properly aligned when installed.
 - Take your time!
 
+#### Important
+**Proper flex positioning and soldering is crucial to allow for good contact. Make sure your flex lies flat on the board, do not solder it on top of the encoder chip pins! Inspect all solder joints before continuing, make sure they are well-formed and do not touch each other.**
+
 **Completed Install**
 
 ![Image of Flex Installed](images/Step3-Flex-Installed.png)
