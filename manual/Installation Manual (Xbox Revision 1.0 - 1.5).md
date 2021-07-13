@@ -186,7 +186,7 @@ Place the XboxHD+ board in the system and screw it down with the two provided sc
 
 Connect each wire to their corresponding pads on the XboxHD+ board.
 
-Carefully connec the flex cable to the FPC connector. Be very careful. it may take a couple of tries as sometimes the flex will want to go in at an angle. if this happens, then pull it out and gently push it back in. ***Do not force it in. Make sure the flex is not inserted at an angle!***
+Carefully connect the flex cable to the FPC connector. Be very careful. it may take a couple of tries as sometimes the flex will want to go in at an angle. if this happens, then pull it out and gently push it back in. ***Do not force it in. Make sure the flex is not inserted at an angle!***
 
 ![Image of XboxHD+ Installed](images/Step5-Finished.png)
 <p align="center"><i><b>This is a photo of a test system. Ignore the missing parts of the case...</b></i></p>
