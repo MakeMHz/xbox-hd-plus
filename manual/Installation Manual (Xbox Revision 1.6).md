@@ -2,7 +2,7 @@
 ### Xbox Revision 1.6
 
 - [Brief Overview](#brief-overview)
-- [Preperation](#preperation)
+- [Preparation](#preparation)
   * [Kit Contents](#kit-contents)
   * [Wire Prep](#wire-prep)
   * [XboxHD+ Board Prep](#xboxhdmi-board-prep)
@@ -18,7 +18,9 @@ For a Brief Overview, Please visit the YouTube video below.
 ![Image of XboxHD+ YouTube Video](images/YouTube.png)
 <p align="center">https://bit.ly/339G98T</p>
 
-### Preperation
+### Preparation
+**Make sure to carefully read the entire document in full before you start! Familiarize yourself with all the steps and how they are to be carried out. Do not skip any steps, and use the provided pictures to compare your results.**
+
 Before your adventure begins, it's imperative to ensure that you have a fully working, tested, and modified Xbox.
 
 Please thoroughly test your system before attempting to install the XboxHD+ kit.
