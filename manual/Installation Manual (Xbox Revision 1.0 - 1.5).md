@@ -2,7 +2,7 @@
 ### Xbox Revision 1.0 -1.5
 
 - [Brief Overview](#brief-overview)
-- [Preperation](#preperation)
+- [Preparation](#preparation)
   * [Kit Contents](#kit-contents)
   * [Wire Prep](#wire-prep)
   * [XboxHD+ Board Prep](#xboxhdmi-board-prep)
@@ -18,7 +18,9 @@ For a Brief Overview, Please visit the YouTube video below.
 ![Image of XboxHD+ YouTube Video](images/YouTube.png)
 <p align="center">https://bit.ly/339G98T</p>
 
-### Preperation
+### Preparation
+**Make sure to carefully read the entire document in full before you start! Familiarize yourself with all the steps and how they are to be carried out. Do not skip any steps, and use the provided pictures to compare your results.**
+
 Before your adventure begins, it's imperative to ensure that you have a fully working, tested, and modified Xbox.
 
 Please thoroughly test your system before attempting to install the XboxHD+ kit.
@@ -121,6 +123,9 @@ After the flex is installed, the Xbox should still be bootable.
 - Pre-shape the flex. Gently shape the flex so it's close to the final shape before soldering. The flex must lay flat and properly aligned when installed.
 - Take your time!
 
+#### Important
+**Proper flex positioning and soldering is crucial to allow for good contact. Make sure your flex lies flat on the board, do not solder it on top of the encoder chip pins! Inspect all solder joints before continuing, make sure they are well-formed and do not touch each other.**
+
 **Completed Install**
 
 ![Image of Flex Installed](images/Step3-Flex-Installed.png)
@@ -181,7 +186,7 @@ Place the XboxHD+ board in the system and screw it down with the two provided sc
 
 Connect each wire to their corresponding pads on the XboxHD+ board.
 
-Carefully connec the flex cable to the FPC connector. Be very careful. it may take a couple of tries as sometimes the flex will want to go in at an angle. if this happens, then pull it out and gently push it back in. ***Do not force it in. Make sure the flex is not inserted at an angle!***
+Carefully connect the flex cable to the FPC connector. Be very careful. it may take a couple of tries as sometimes the flex will want to go in at an angle. if this happens, then pull it out and gently push it back in. ***Do not force it in. Make sure the flex is not inserted at an angle!***
 
 ![Image of XboxHD+ Installed](images/Step5-Finished.png)
 <p align="center"><i><b>This is a photo of a test system. Ignore the missing parts of the case...</b></i></p>
