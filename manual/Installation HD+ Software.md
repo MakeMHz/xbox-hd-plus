@@ -35,7 +35,7 @@ Leave Xbox on and continue to the next section.
 ### Step 1
 Download the latest kpatch IPS file for your BIOS of choice.
 
-[BIOS Patches](https://github.com/MakeMHz/xbox-hd-plus/blob/master/patches/README.md)
+[BIOS Patches](https://github.com/MakeMHz/xbox-hd-plus/tree/master/patches#xbox-kernel-patches-kpatch---xboxhd)
 
 ### Step 2
 Apply patch to BIOS by following the link to the patching guide for the corresponding BIOS patch. (Due to legal reasons we can not distribute the BIOS files)
@@ -65,7 +65,7 @@ Set the newly flashed BIOS as the default BIOS.
 ![BIOS Flashing Step 9](/manual/images/upgrade/flash_step9.png)
 ![BIOS Flashing Step 10](/manual/images/upgrade/flash_step10.png)
 
-### Step 6 (Optional/Recommended)
+### Step 6
 Ensure that 'Instant Boot' is enabled. This automatically boot the default BIOS on power up.
 
 ![BIOS Flashing Step 11](/manual/images/upgrade/flash_step11.png)
@@ -73,26 +73,14 @@ Ensure that 'Instant Boot' is enabled. This automatically boot the default BIOS 
 ![BIOS Flashing Step 13](/manual/images/upgrade/flash_step13.png)
 
 ## Adding Shortcuts
-TODO: Add guides for adding shortcuts to C:\xboxhd\default.xbe
+TODO: Add guides for adding launch shortcuts to C:\xboxhd\default.xbe
 
-## Firmware Update
+## Verification
 At this point you can reboot the Xbox. This will boot the patched BIOS.
 
 ### Step 1:
-Launch the XboxHD+ app.
-
-### Step 2:
-Apply update. The update will wait 2 minutes before flashing the firmware update.
-**DO NOT TURN OFF THE XBOX** once the front LEDs turn orange. Doing so can/will brick the XboxHDMI/XboxHD+.
-
-![BIOS Flashing Step 13](/manual/images/upgrade/app_upgrade_1.png)
-
-![BIOS Flashing Step 13](/manual/images/upgrade/app_upgrade_2.png)
-
-![BIOS Flashing Step 13](/manual/images/upgrade/app_upgrade_3.png)
-
-# Step 3
-Repeat by launching the XboxHD+ app again. Depending on the starting firmware you may have to update multiple times.
+Launch the XboxHD+ app. If all went well you should now see the configuration app and text that says 'Kernel patch loader detected'
+![Kernel patch installation verification](/manual/images/KPatch-Verification.png)
 
 ## All Done
-And that's it!
+And that's it! Installation of the XboxHD+ kit can now continue.
