@@ -1,4 +1,26 @@
-## Xbox Kernel Patches
+## Xbox Kernel Patches (kpatch - XboxHD+)
+
+| BIOS                                  | Patch Version | Status    | IPS Patch | Guide |
+| ------------------------------------- | ------------- | --------- | --------- | ----- |
+| m8plus                                |       kp1.0.0 | Stable    | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/m8plus.ips) | [Link](https://github.com/MakeMHz/xbox-hd-plus/blob/master/manual/Kernel%20Patch%20-%20m8plus.md)  |
+
+
+### Verified BIOS Hashes
+The IPS patch provided should work on all m8plus releases (expect for the forced 480p patched variants). Below is a list of verified BIOS images with their MD5 sum before patching that have been tested and verified.
+
+| BIOS (Filename)                       | MD5 Checksum                     | Status    |
+| ------------------------------------- | -------------------------------- | --------- |
+| m8plus                                | dfc6288f6b67fd021e1970491c64c0a0 | Verified  |
+| m8plus (1.6)                          | 58b8782501983725f984499620ca342b | Verified  |
+| m8plus (M8_16_LBA48_IGR_C-06.bin)     | fc9c5dab107a234863714d6452a6d3bb | Verified  |
+| m8plus (M8_16_LBA48_IGR_Q-06.bin)     | 0c7ff9e58c7ae9ee5225944ce01daae1 | Verified  |
+| m8plus (M8_LBA48_IGR_C-06.bin)        | c5ea8592b48a2bb6b3c288cf263ed9f3 | Verified  |
+| m8plus (M8_LBA48_IGR_Q-06.bin)        | 0fc0392198205849849b08f7fd5759c1 | Verified  |
+| evox.m8plus.fc.137.bin                | f0decbde3df48a9ecae87336e2a7cbdd | Verified  |
+
+---
+
+## Xbox Kernel Patches (Legacy - XboxHDMI)
 
 | BIOS                                  | MD5 Checksum                     | Patch Version | Status      | IPS Patch | Guide |
 | ------------------------------------- | -------------------------------- | ------------- | ----------- | --------- | ----- |
