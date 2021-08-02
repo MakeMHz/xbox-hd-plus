@@ -2,7 +2,7 @@
 
 | BIOS                                  | Patch Version | Status    | IPS Patch | Guide |
 | ------------------------------------- | ------------- | --------- | --------- | ----- |
-| m8plus                                |       kp1.0.0 | Stable    | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/m8plus.ips) | [Link](https://github.com/MakeMHz/xbox-hd-plus/blob/master/manual/Kernel%20Patch%20-%20m8plus.md)  |
+| m8plus                                |       kp1.0.0 | Stable    | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/m8plus_kpatcher.ips) | [Link](https://github.com/MakeMHz/xbox-hd-plus/blob/master/manual/Kernel%20Patch%20-%20m8plus.md)  |
 
 
 ### Verified BIOS Hashes
