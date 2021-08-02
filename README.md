@@ -38,9 +38,15 @@ XboxHD+ was designed from the ground up to be the best possible solution for you
   *  Optional auto anamorphic widescreen for widescreen 480P content. By default, 16:9 480P content will be stretched to fullscreen as the game intended. Avoid the hassle of having to adjust your TV's zoom/aspect ratio when switch between widescreen and none-widescreen 480P games.
 
 ## Installation
-[Installation Manual - Xbox Revision 1.0 - 1.5](manual/Installation%20Manual%20(Xbox%20Revision%201.0%20-%201.5).md)
+**XboxHD+**
 
-[Installation Manual - Xbox Revision 1.6](manual/Installation%20Manual%20(Xbox%20Revision%201.6).md)
+[Installation Manual (XboxHD+ 1.6)](/manual/Installation%20Manual%20(XboxHD%2B%201.6).md)
+
+**XboxHDMI**
+
+[Installation Manual (XboxHDMI 1.0 - 1.5)](/manual/Installation%20Manual%20(XboxHDMI%201.0%20-%201.5).md)
+
+[Installation Manual (XboxHDMI 1.6)](/manual/Installation%20Manual%20(XboxHDMI%201.6).md)
 
 ## Software
 Configuration and firmware updates are preformed using the XboxHD+ homebrew app.
