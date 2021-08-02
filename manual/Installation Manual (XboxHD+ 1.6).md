@@ -1,6 +1,6 @@
 # XboxHD+ Installation Guide
 ### Xbox Revision 1.6
-### This guide is ONLY for the installation of a XboxHD+ kit!
+**This guide is ONLY for the installation of a XboxHD+ kit!**
 
 - [Brief Overview](#brief-overview)
 - [Preparation](#preparation)
@@ -77,7 +77,7 @@ After cutting each wire, strip each side of the wires. It's recommended for the 
 Begin by adding solder to all of the connection pads (GND, SDA, SCL, SPDIF, 5V). This is important as there's little room once everything is installed.
 
 ### Step 1 - Software Installation
-Part of the XboxHD+ is the software side and it has its own guide here. Make sure to follow the guide and verify the installation of the software and kernel patch before continuing.
+Part of the XboxHD+ is the software side and it has its own guide [here](/manual/Installation%20HD%2B%20Software.md). Make sure to follow the guide and verify the installation of the software and kernel patch before continuing.
 
 ### Step 2 - Motherboard Prep
 The first step is to remove the motherboard from the Xbox. There are plenty of guides on the internet on how to do so and won't be repeated here as it's pretty straight-forward.
