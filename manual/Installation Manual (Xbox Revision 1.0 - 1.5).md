@@ -184,7 +184,7 @@ Place the Xbox motherboard back into the case. Make sure to screw the motherboar
 ### Install the XboxHD+ Board
 Place the XboxHD+ board in the system and screw it down with the two provided screws.
 
-Connect each wire to their corresponding pads on the XboxHD+ board.
+Connect each wire to its corresponding pads on the XboxHD+ board.
 
 Carefully connect the flex cable to the FPC connector. Be very careful. it may take a couple of tries as sometimes the flex will want to go in at an angle. if this happens, then pull it out and gently push it back in. ***Do not force it in. Make sure the flex is not inserted at an angle!***
 

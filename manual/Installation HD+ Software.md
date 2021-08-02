@@ -1,5 +1,5 @@
-# Instllation HD+ Software
-This guide is for upgrading existing XboxHDMI, firmware 1.x.x, installs to XboxHD+.
+# Installation - XboxHD+ Software
+This guide is for the installation of the XboxHD+ software and kernel patch.
 
 ## Checklist
 - [ ] OpenXenium installed.
@@ -18,7 +18,7 @@ Boot console to XeniumOS via the eject button.
 ### Step 3:
 Download the latest XboxHD+ app release.
 
-[Latest Release](https://github.com/MakeMHz/xbox-hd-plus-app2/releases/latest)
+[Latest Release](https://github.com/MakeMHz/xbox-hd-plus-app/releases/latest)
 
 ![FTP BIOS bin file](/manual/images/upgrade/latest_release.png)
 
@@ -35,7 +35,7 @@ Leave Xbox on and continue to the next section.
 ### Step 1
 Download the latest kpatch IPS file for your BIOS of choice.
 
-[BIOS Patches](https://github.com/MakeMHz/xbox-hd-plus/tree/master/patches#xbox-kernel-patches-kpatch---xboxhd)
+[BIOS Patches](/patches/README.md#xbox-kernel-patches-kpatch---xboxhd)
 
 ### Step 2
 Apply patch to BIOS by following the link to the patching guide for the corresponding BIOS patch. (Due to legal reasons we can not distribute the BIOS files)
@@ -79,7 +79,7 @@ TODO: Add guides for adding launch shortcuts to C:\xboxhd\default.xbe
 At this point you can reboot the Xbox. This will boot the patched BIOS.
 
 ### Step 1:
-Launch the XboxHD+ app. If all went well you should now see the configuration app and text that says 'Kernel patch loader detected'
+Launch the XboxHD+ app. If all went well you should now see the configuration app and text that says 'Kernel patch loader detected'.
 ![Kernel patch installation verification](/manual/images/KPatch-Verification.png)
 
 ## All Done
