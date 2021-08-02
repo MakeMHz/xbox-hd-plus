@@ -51,7 +51,9 @@ XboxHD+ was designed from the ground up to be the best possible solution for you
 ## Software
 Configuration and firmware updates are preformed using the XboxHD+ homebrew app.
 
-See [MakeMHz/xbox-hd-plus-app](https://github.com/MakeMHz/xbox-hd-plus-app)
+See [MakeMHz/xbox-hd-plus-app](https://github.com/MakeMHz/xbox-hd-plus-app) (For XboxHD+ installs)
+
+See [MakeMHz/xbox-hdmi-app](https://github.com/MakeMHz/xbox-hdmi-app) (For XboxHDMI installs)
 
 ## Hardware
 ### QSB Fix (1.0/1.1)
