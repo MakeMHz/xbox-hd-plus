@@ -15,7 +15,7 @@
 - [Step 6 - Wrapping Up](#step-6---wrapping-up)
 
 ### Brief Overview
-For a Brief Overview, Please visit the YouTube video below.
+For a brief overview, check out the YouTube video below.
 
 ![Image of XboxHD+ YouTube Video](images/YouTube.png)
 <p align="center">https://bit.ly/339G98T</p>
