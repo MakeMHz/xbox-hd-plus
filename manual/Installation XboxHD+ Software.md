@@ -72,6 +72,14 @@ Ensure that 'Instant Boot' is enabled. This automatically boot the default BIOS 
 ![BIOS Flashing Step 12](/manual/images/upgrade/flash_step12.png)
 ![BIOS Flashing Step 13](/manual/images/upgrade/flash_step13.png)
 
+### Step 7
+Ensure that hard drive is 'unlocked' is enabled. (The XboxHD+ patch must be able to access the hard drive before the kernel unlocks it).
+
+![HDD Unlock Step 1](/manual/images/HDD_Unlock_1.png)
+![HDD Unlock Step 2](/manual/images/HDD_Unlock_2.png)
+![HDD Unlock Step 3](/manual/images/HDD_Unlock_3.png)
+
+
 ## Adding Shortcuts
 TODO: Add guides for adding launch shortcuts to C:\xboxhd\default.xbe
 
