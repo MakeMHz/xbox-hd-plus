@@ -2,8 +2,17 @@
 
 | BIOS                                  | Patch Version | Status    | IPS Patch | Guide |
 | ------------------------------------- | ------------- | --------- | --------- | ----- |
-| m8plus                                |       kp1.0.0 | Stable    | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/m8plus_kpatcher.ips) | [Link](https://github.com/MakeMHz/xbox-hd-plus/blob/master/manual/Kernel%20Patch%20-%20m8plus.md)  |
+| m8plus                                |       kp1.0.1 | Stable    | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/m8plus_kpatcher.ips) | [Link](https://github.com/MakeMHz/xbox-hd-plus/blob/master/manual/Kernel%20Patch%20-%20m8plus.md)  |
 
+
+## Changelog
+
+### 1.0.1
+  *  Removed HDD 'unlock' requirement.
+  *  Increased HDD timeout from 30 to 60 seconds. (This should help offset the drive timeout for slow drives since drive is initialized earlier than stock. Fixes error 07 on boot.)
+
+### 1.0.0
+  *  Initial release.
 
 ### Verified BIOS Hashes
 The IPS patch provided should work on all m8plus releases (expect for the forced 480p patched variants). Below is a list of verified BIOS images with their MD5 sum before patching that have been tested and verified.
