@@ -1,3 +1,6 @@
+![Warning](images/Warning.png)
+### <p align="center">If your 1.6 kit shipped with "Firmware: v2.0.5" and not "Firmware: v2.0.5b" (label on side of the product box) then please wait before installing your kit. A firmware bug has been identified that can cause no display output in some cases. A workaround is being worked on.</p>
+
 # XboxHD+ Installation Guide
 ### Xbox Revision 1.6
 **This guide is ONLY for the installation of a XboxHD+ kit!**
