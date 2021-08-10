@@ -77,6 +77,8 @@ After cutting each wire, strip each side of the wires. It's recommended for the 
 Begin by adding solder to all of the connection pads (GND, SDA, SCL, SPDIF, 5V). This is important as there's little room once everything is installed.
 
 ### Step 1 - Software Installation
+![Do not skip this step!](images/do-not-skip.png)
+### <p align="center">The software guide must be followed for maxium display compatibitly. Not doing so now will cause troubleshooting to be harder once the AV port is removed.</p>
 Part of the XboxHD+ is the software side and it has its own guide [here](/manual/Installation%20XboxHD%2B%20Software.md). Make sure to follow the guide and verify the installation of the software and kernel patch before continuing.
 
 ### Step 2 - Motherboard Prep
