@@ -40,6 +40,8 @@ XboxHD+ was designed from the ground up to be the best possible solution for you
 ## Installation
 **XboxHD+**
 
+[Installation Manual (XboxHD+ 1.0 - 1.5)](/manual/Installation%20Manual%20(XboxHD%2B%201.0%20-%201.5).md)
+
 [Installation Manual (XboxHD+ 1.6)](/manual/Installation%20Manual%20(XboxHD%2B%201.6).md)
 
 **XboxHDMI**
