@@ -167,4 +167,4 @@ Connect each wire to its corresponding pads on the XboxHD+ board.
 
 Carefully connect the flex cable to the FPC connector. Be very careful. it may take a couple of tries as sometimes the flex will want to go in at an angle. if this happens, then pull it out and gently push it back in. ***Do not force it in. Make sure the flex is not inserted at an angle!***
 
-![Image of XboxHD+ Installed](images/Step5-Finished_1_6.jpg)
+![Image of XboxHD+ Installed](images/Step5-Finished_HD.jpg)
