@@ -46,7 +46,7 @@ Check your kit for missing or damaged pieces before moving forwards.
 - 2 replacement screws
 
 ### Step 1 - QSB Installation
-All Xbox revisions require the installation of a QSB board. Follow the [Installation Manual QSB HD+](Installation%20Manual%20QSB%20HD%2B.md) first before continuing.
+**All Xbox revisions (1.0 - 1.5)** require the installation of a QSB board. Follow the [Installation Manual QSB HD+](Installation%20Manual%20QSB%20HD%2B.md) first before continuing.
 
 ### Step 2 - Software Installation
 Part of the XboxHD+ is the software side and it has its own guide [here](/manual/Installation%20XboxHD+%20Software.md). Make sure to follow the guide and verify the installation of the software and kernel patch before continuing.
