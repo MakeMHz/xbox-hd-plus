@@ -37,9 +37,10 @@ Installation verification can be performed by measuring the resistance using the
 ![Troubleshooting Guide](images/QSB_HD_Troubleshooting.png)
 
 ### Testing
-It's very imprortant at this step to reassemble the system and test. If possible use an HD cable or external HDMI adapter and test with games running at 720p or 1080i. This will help rule out bad/failing system capacitors.
+It's very important at this step to reassemble the system and test. If possible use an HD cable or external HDMI adapter and test with games running at 720p or 1080i. This will help rule out bad/failing system capacitors.
 
-The system should preform as normal. If not (stuttering/lockups), higher chance on 1.0/1.1 systems, then the system may need to be fully recapped.
+The system should perform as usual. If not (stuttering/lockups), higher chance on 1.0/1.1 systems, then the system may need to be fully recapped.
 
 ### Other Important Notes
-If the XboxHD+ QSB is being installed along side the original XboxHDMI kit, then make sure to NOT connect the 1v8 wire from the XboxHDMI board to the motherboard as this can damage the XboxHDMI board.
+If the XboxHD+ QSB is being installed alongside the original XboxHDMI kit, do NOT connect the 1v8 wire from the XboxHDMI board to the motherboard, as this can damage the XboxHDMI board.
+
