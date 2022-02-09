@@ -64,9 +64,9 @@ See [MakeMHz/xbox-hdmi-app](https://github.com/MakeMHz/xbox-hdmi-app) (For XboxH
 ### 3D Printed Parts
 The XboxHD+ kit includes two 3D printed parts. Parts are designed in Fusion360 and can be downloaded in multiple formats from the links below.
 
-[HDMI Panel](https://a360.co/3l2h5Ya)
+[HDMI Panel](https://raw.githubusercontent.com/MakeMHz/xbox-hd-plus/master/stl/Case%20Filler.stl)
 
-[Board Spacer](https://a360.co/30kox9a)
+[Board Spacer](https://raw.githubusercontent.com/MakeMHz/xbox-hd-plus/master/stl/Board%20Spacer.stl)
 
 ## Licensing
 Parts of XboxHD+ are free and open source with plans to release everything else in the near future. Please respect the licenses available in their respective folders.
