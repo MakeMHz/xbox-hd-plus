@@ -169,7 +169,7 @@ Place the spacer as shown below in black.
 Place the Xbox motherboard back into the case. Make sure to screw the motherboard back in. There's one screw located under where the XboxHD+ will be installed.
 
 ### Install the XboxHD+ Board
-Begin by adding solder to all of the connection pads (GND, SDA, SCL, SPDIF, 1V8, 5V). This is important as there's little room once everything is installed.
+Begin by adding solder to all of the connection pads (GND, SDA, SCL, SPDIF, 5V). This is important as there's little room once everything is installed.
 
 Place the XboxHD+ board in the system and screw it down with the two provided screws.
 
