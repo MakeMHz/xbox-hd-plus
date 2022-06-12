@@ -16,19 +16,19 @@ Boot console to XeniumOS via the eject button.
 
 ![XeniumOS Boot Screen](./images/upgrade/xeniumos.png)
 
-### Step 3:
+### Step 2:
 Download the latest XboxHD+ app release.
 
 [Latest Release](https://github.com/MakeMHz/xbox-hd-plus-app2/releases/latest)
 
 ![FTP BIOS bin file](./images/upgrade/latest_release.png)
 
-### Step 4:
+### Step 3:
 Extract the files and FTP over contents to the C drive. Files must be placed on the C drive. (Inside of a folder called 'xboxhd' as shown)
 
 ![XeniumOS Boot Screen](./images/upgrade/ftp_app.png)
 
-### Step 5:
+### Step 4:
 Leave Xbox on and continue to the next section.
 
 ## Patching BIOS with kpatcher support
