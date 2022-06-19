@@ -128,6 +128,9 @@ After the flex is installed, the Xbox should still be bootable.
 #### Important
 **Proper flex positioning and soldering is crucial to allow for good contact. Make sure your flex lies flat on the board, do not solder it on top of the encoder chip pins! Inspect all solder joints before continuing, make sure they are well-formed and do not touch each other.**
 
+#### Warning!
+**There are multiple revisions of the XboxHD+ flex revision. Please pay close attention to the reference images below.**
+
 **Completed Install**
 
 ![Image of Flex Installed](images/Step3-Flex-Installed.png)
@@ -144,9 +147,13 @@ After the flex is installed, the Xbox should still be bootable.
 
 ![Image of Flex Board Layout](images/Step3-Left.png)
 
+Flex rev 1-5 are the same on the left side.
+
 **Bottom Connections**
 
 ![Image of Flex Board Layout](images/Step3-Bottom.png)
+
+Flex rev 1-5 are the same on the bottom side.
 
 ### Step 7 - Aux Wires
 Start with connecting each of the pre-cut wires. The wires for 5V and SPDIF should lay flat across the motherboard running towards the right.
