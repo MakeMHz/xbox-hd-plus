@@ -40,6 +40,8 @@ XboxHD+ was designed from the ground up to be the best possible solution for you
 ## Installation
 **Stellar XboxHD+**
 
+[Upgrading to Stellar XboxHD+](/manual/Upgrading%20to%20Stellar%20XboxHD%2b.md)
+
 [Installation Manual (Stellar XboxHD+ v2 1.0 - 1.5)](/manual/Installation%20Manual%20(Stellar%20XboxHD%2B%20v2%201.0%20-%201.5).md)
 
 [Installation Manual (Stellar XboxHD+ v2 1.6)](/manual/Installation%20Manual%20(Stellar%20XboxHD%2B%20v2%201.6).md)
@@ -57,7 +59,7 @@ XboxHD+ was designed from the ground up to be the best possible solution for you
 [Installation Manual (XboxHDMI 1.6)](/manual/Installation%20Manual%20(XboxHDMI%201.6).md)
 
 ## Software
-Configuration and firmware updates are preformed using the XboxHD+ homebrew app.
+Configuration and firmware updates are preformed using the XboxHD+ homebrew app. For Stellar XboxHD+ everything is handled via StellarOS.
 
 See [MakeMHz/xbox-hd-plus-app](https://github.com/MakeMHz/xbox-hd-plus-app) (For XboxHD+ installs)
 
