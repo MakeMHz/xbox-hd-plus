@@ -14,6 +14,8 @@ Update the XboxHDMI/XboxHD+ to firmware version 2.2.0 or higher.
 ### Step 2:
 Disconnect the HDMI board from the system. Remove and clean the solder from the SDA, SCL, and GND pads.
 
+**Remove the SDA and SCL wires from the Xbox motherboard. These are no longer needed**
+
 ![Clean Board](./images/upgrade_stellar/clean_board.jpg)
 
 ### Step 3:
