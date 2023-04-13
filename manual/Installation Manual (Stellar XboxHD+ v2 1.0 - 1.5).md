@@ -46,7 +46,7 @@ Check your kit for missing or damaged pieces before moving forwards.
 - 2 mounting screws
 
 ### Step 1 - Project Stellar Installation
-The first step of install the Stellar XboxHD+ is installing and updating Project Stellar. Project Stellar has it's own guide [here](https://github.com/MakeMHz/project-stellar/blob/main/documentation/Installation%20Guide.md).
+The first step of is installing and updating Project Stellar. Project Stellar has it's own guide [here](https://github.com/MakeMHz/project-stellar/blob/main/documentation/Installation%20Guide.md).
 
 **Make sure you're at least on firmware version v1.0.1 before continuing.**
 
