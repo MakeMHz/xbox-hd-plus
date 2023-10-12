@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://xboxhdmi.com/"><img src="manual/images/MakeMHz-Logo.png" alt="XboxHD+" width="400"></a>
+  <a href="https://xboxhdmi.com/"><img src="assets/MakeMHz-Logo.png" alt="XboxHD+" width="400"></a>
   <br>
 </h1>
 <h4 align="center">The first and only purely digital video output mod for the original Microsoft Xbox.</h4>
