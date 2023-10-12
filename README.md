@@ -40,23 +40,23 @@ XboxHD+ was designed from the ground up to be the best possible solution for you
 ## Installation
 **Stellar XboxHD+**
 
-[Upgrading to Stellar XboxHD+](/manual/Upgrading%20to%20Stellar%20XboxHD%2b.md)
+[Upgrading to Stellar XboxHD+](https://support.makemhz.com/xbox-hdmi/upgrade/stellar)
 
-[Installation Manual (Stellar XboxHD+ v2 1.0 - 1.5)](/manual/Installation%20Manual%20(Stellar%20XboxHD%2B%20v2%201.0%20-%201.5).md)
+[Installation Manual (Stellar XboxHD+ v2 1.0 - 1.5)](https://support.makemhz.com/xbox-hdmi/installation/stellar-xboxhd-1-0)
 
-[Installation Manual (Stellar XboxHD+ v2 1.6)](/manual/Installation%20Manual%20(Stellar%20XboxHD%2B%20v2%201.6).md)
+[Installation Manual (Stellar XboxHD+ v2 1.6)](https://support.makemhz.com/xbox-hdmi/installation/stellar-xboxhd-1-6)
 
 **XboxHD+**
 
-[Installation Manual (XboxHD+ 1.0 - 1.5)](/manual/Installation%20Manual%20(XboxHD%2B%201.0%20-%201.5).md)
+[Installation Manual (XboxHD+ 1.0 - 1.5)](https://support.makemhz.com/xbox-hdmi/installation/xboxhd-1-0)
 
-[Installation Manual (XboxHD+ 1.6)](/manual/Installation%20Manual%20(XboxHD%2B%201.6).md)
+[Installation Manual (XboxHD+ 1.6)](https://support.makemhz.com/xbox-hdmi/installation/xboxhd-1-6)
 
 **XboxHDMI**
 
-[Installation Manual (XboxHDMI 1.0 - 1.5)](/manual/Installation%20Manual%20(XboxHDMI%201.0%20-%201.5).md)
+[Installation Manual (XboxHDMI 1.0 - 1.5)](https://support.makemhz.com/xbox-hdmi/installation/xboxhdmi-1-0)
 
-[Installation Manual (XboxHDMI 1.6)](/manual/Installation%20Manual%20(XboxHDMI%201.6).md)
+[Installation Manual (XboxHDMI 1.6)](https://support.makemhz.com/xbox-hdmi/installation/xboxhdmi-1-6)
 
 ## Software
 Configuration and firmware updates are preformed using the XboxHD+ homebrew app. For Stellar XboxHD+ everything is handled via StellarOS.
