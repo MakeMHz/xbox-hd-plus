@@ -2,7 +2,7 @@
 
 | BIOS                                  | Patch Version | Status    | IPS Patch | Guide |
 | ------------------------------------- | ------------- | --------- | --------- | ----- |
-| m8plus                                |       kp1.0.2 | Stable    | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/m8plus_kpatcher.ips) | [Link](https://github.com/MakeMHz/xbox-hd-plus/blob/master/manual/Kernel%20Patch%20-%20m8plus.md)  |
+| m8plus                                |       kp1.0.2 | Stable    | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/m8plus_kpatcher.ips) | [Link](https://support.makemhz.com/xbox-hdmi/kernel-patch/m8plus)  |
 
 
 ## Changelog
@@ -36,15 +36,15 @@ The IPS patch provided should work on all m8plus releases (expect for the forced
 
 | BIOS                                  | MD5 Checksum                     | Patch Version | Status      | IPS Patch | Guide |
 | ------------------------------------- | -------------------------------- | ------------- | ----------- | --------- | ----- |
-| m8plus                                | dfc6288f6b67fd021e1970491c64c0a0 |         1.4.3 | Verified    | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/m8plus.ips) | [Link](https://github.com/MakeMHz/xbox-hd-plus/blob/master/manual/Kernel%20Patch%20-%20m8plus.md)  |
-| m8plus (1.6)                          | 58b8782501983725f984499620ca342b |         1.4.3 | Verified    | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/m8plus.ips) | [Link](https://github.com/MakeMHz/xbox-hd-plus/blob/master/manual/Kernel%20Patch%20-%20m8plus.md)  |
-| m8plus (M8_16_LBA48_IGR_C-06.bin)     | fc9c5dab107a234863714d6452a6d3bb |         1.4.3 | Verified    | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/m8plus.ips) | [Link](https://github.com/MakeMHz/xbox-hd-plus/blob/master/manual/Kernel%20Patch%20-%20m8plus.md)  |
-| m8plus (M8_16_LBA48_IGR_Q-06.bin)     | 0c7ff9e58c7ae9ee5225944ce01daae1 |         1.4.3 | Verified    | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/m8plus.ips) | [Link](https://github.com/MakeMHz/xbox-hd-plus/blob/master/manual/Kernel%20Patch%20-%20m8plus.md)  |
-| m8plus (M8_LBA48_IGR_C-06.bin)        | c5ea8592b48a2bb6b3c288cf263ed9f3 |         1.4.3 | Verified    | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/m8plus.ips) | [Link](https://github.com/MakeMHz/xbox-hd-plus/blob/master/manual/Kernel%20Patch%20-%20m8plus.md)  |
-| m8plus (M8_LBA48_IGR_Q-06.bin)        | 0fc0392198205849849b08f7fd5759c1 |         1.4.3 | Verified    | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/m8plus.ips) | [Link](https://github.com/MakeMHz/xbox-hd-plus/blob/master/manual/Kernel%20Patch%20-%20m8plus.md)  |
-| evox.m8plus.fc.137.bin                | f0decbde3df48a9ecae87336e2a7cbdd |         1.4.3 | Verified    | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/m8plus.ips) | [Link](https://github.com/MakeMHz/xbox-hd-plus/blob/master/manual/Kernel%20Patch%20-%20m8plus.md)  |
-| iND (iND-BiOS.5003.06.bin)            | b0c482ca1a76a4550c73a391171b8bb1 |         1.4.3 | Beta *      | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/ind-bios.5003.xx.ips) | [Link](https://github.com/MakeMHz/xbox-hd-plus/blob/master/manual/Kernel%20Patch%20-%20ind.md)  |
-| iND (iND-BiOS.5003.67.bin)            | ae7bf411d05c3ef1132b97627c65a62f |         1.4.3 | Beta *      | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/ind-bios.5003.xx.ips) | [Link](https://github.com/MakeMHz/xbox-hd-plus/blob/master/manual/Kernel%20Patch%20-%20ind.md)  |
+| m8plus                                | dfc6288f6b67fd021e1970491c64c0a0 |         1.4.3 | Verified    | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/m8plus.ips) | [Link](https://support.makemhz.com/xbox-hdmi/kernel-patch/m8plus)  |
+| m8plus (1.6)                          | 58b8782501983725f984499620ca342b |         1.4.3 | Verified    | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/m8plus.ips) | [Link](https://support.makemhz.com/xbox-hdmi/kernel-patch/m8plus)  |
+| m8plus (M8_16_LBA48_IGR_C-06.bin)     | fc9c5dab107a234863714d6452a6d3bb |         1.4.3 | Verified    | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/m8plus.ips) | [Link](https://support.makemhz.com/xbox-hdmi/kernel-patch/m8plus)  |
+| m8plus (M8_16_LBA48_IGR_Q-06.bin)     | 0c7ff9e58c7ae9ee5225944ce01daae1 |         1.4.3 | Verified    | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/m8plus.ips) | [Link](https://support.makemhz.com/xbox-hdmi/kernel-patch/m8plus)  |
+| m8plus (M8_LBA48_IGR_C-06.bin)        | c5ea8592b48a2bb6b3c288cf263ed9f3 |         1.4.3 | Verified    | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/m8plus.ips) | [Link](https://support.makemhz.com/xbox-hdmi/kernel-patch/m8plus)  |
+| m8plus (M8_LBA48_IGR_Q-06.bin)        | 0fc0392198205849849b08f7fd5759c1 |         1.4.3 | Verified    | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/m8plus.ips) | [Link](https://support.makemhz.com/xbox-hdmi/kernel-patch/m8plus)  |
+| evox.m8plus.fc.137.bin                | f0decbde3df48a9ecae87336e2a7cbdd |         1.4.3 | Verified    | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/m8plus.ips) | [Link](https://support.makemhz.com/xbox-hdmi/kernel-patch/m8plus)  |
+| iND (iND-BiOS.5003.06.bin)            | b0c482ca1a76a4550c73a391171b8bb1 |         1.4.3 | Beta *      | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/ind-bios.5003.xx.ips) | [Link](https://support.makemhz.com/xbox-hdmi/kernel-patch/ind)  |
+| iND (iND-BiOS.5003.67.bin)            | ae7bf411d05c3ef1132b97627c65a62f |         1.4.3 | Beta *      | [Link](https://github.com/MakeMHz/xbox-hd-plus/raw/master/patches/ips/ind-bios.5003.xx.ips) | [Link](https://support.makemhz.com/xbox-hdmi/kernel-patch/ind)  |
 
 **It is recommended to preform the inital installation and verification using a patch m8plus BIOS.**
 
